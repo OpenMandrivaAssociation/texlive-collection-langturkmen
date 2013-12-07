@@ -7,7 +7,7 @@
 Name:		texlive-collection-langturkmen
 Epoch:		1
 Version:	20120224
-Release:	4
+Release:	5
 Summary:	Turkmen
 Group:		Publishing
 URL:		http://tug.org/texlive
